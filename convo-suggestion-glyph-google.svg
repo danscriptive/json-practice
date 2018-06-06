@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>embed/suggestion-glyph/google</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M4.452729e-05,2.61930165 L3.35774535,0.0121979654 C4.15906854,2.30601082 6.34191566,3.95151515 8.90909091,3.95151515 C10.1873269,3.95151515 11.3702804,3.54356218 12.3348545,2.85075313 L15.6131844,5.49274869 C13.8395822,7.09622388 11.4883738,8.07272727 8.90909091,8.07272727 C5.02346123,8.07272727 1.65544046,5.85658009 4.452729e-05,2.61930165 Z" id="path-1"></path>
+        <path d="M1.13388232,0.0128607233 L4.48890412,2.59139277 C4.2511522,3.22996865 4.12121212,3.92102188 4.12121212,4.64242424 C4.12121212,5.34864232 4.24573973,6.02577542 4.47403481,6.65306339 L1.09783798,9.2024365 C0.39603868,7.83511758 0,6.2850208 0,4.64242424 C0,2.97191283 0.409613894,1.39707187 1.13388232,0.0128607233 Z" id="path-3"></path>
+        <path d="M3.37375261,7.94896853 L0.0187307999,5.37043648 C1.68895307,2.17833226 5.0325124,0 8.88484848,0 C11.6547265,0 14.1615777,1.12615219 15.972518,2.94557267 L13.0689731,5.870441 C12.003044,4.79051586 10.5221084,4.12121212 8.88484848,4.12121212 C6.35948596,4.12121212 4.20603407,5.71355086 3.37375261,7.94896853 Z" id="path-5"></path>
+    </defs>
+    <g id="embed/suggestion-glyph/google" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.724463619">
+        <g id="IC-Launch">
+            <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+            <g id="Google" transform="translate(2.000000, 2.000000)">
+                <g id="Group-5" transform="translate(10.060606, 7.927273)" fill="#4285F4">
+                    <path d="M6.64424073,9.49206755 L3.36860157,6.84827757 C4.30876802,6.1719738 5.04110372,5.22489488 5.45143727,4.12121216 L3.55271368e-15,4.12121212 L3.55271368e-15,8.8817842e-16 L9.7243119,8.8817842e-16 C9.86526293,0.668720879 9.93939394,1.36206696 9.93939394,2.07272727 C9.93939394,2.42376553 9.92130618,2.77057917 9.88601183,3.11228703 C9.62538879,5.63554995 8.42653399,7.8804079 6.64424073,9.49206755 Z" id="Combined-Shape"></path>
+                </g>
+                <g id="Group-5" transform="translate(1.090909, 11.927273)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Combined-Shape" fill="#34A853" xlink:href="#path-1"></use>
+                </g>
+                <g id="Group-5" transform="translate(0.000000, 5.357576)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Combined-Shape" fill="#FBBC05" xlink:href="#path-3"></use>
+                </g>
+                <g id="Group-5" transform="translate(1.115152, 0.000000)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <use id="Combined-Shape" fill="#EA4335" xlink:href="#path-5"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
